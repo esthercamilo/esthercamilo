@@ -43,8 +43,8 @@ Some projects are exploratory, while others are part of scientific research or a
 ## 📫 Contact
 If you would like to discuss a project, collaboration, or idea:
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: (optional)
+- GitHub: https://github.com/esthercamilo  
+- LinkedIn: https://linkedin.com/in/esthercamiloreis
 
 ---
 
